@@ -1,0 +1,23 @@
+#grid {
+    line-height: 12px;
+    width:auto;
+    height:auto;
+    background-color:grey;
+}
+
+.pix {
+    border: 1px solid grey;
+    background-color: white;
+    width: 12px;
+    height: 12px;
+    margin:0px;
+    display:inline-block;
+}
+
+.blk {
+    background-color: black;
+}
+
+/*div:hover {
+    background-color:black;
+}*/
